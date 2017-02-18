@@ -16,4 +16,9 @@ The program is tested with:
 - DrRacket, version 6.2.1
 
 
+
 Some screenshots:
+
+![pic1](/pic1.png?raw=true "Optional Title")
+
+![pic2](/pic2.png?raw=true "Optional Title")
