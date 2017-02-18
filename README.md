@@ -14,3 +14,6 @@ How to use the program and how it works:
 The program is tested with:
 - GHCi, version 7.10.3 from http://www.haskell.org/ghc/
 - DrRacket, version 6.2.1
+
+
+Some screenshots:
